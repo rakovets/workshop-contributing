@@ -1,1 +1,23 @@
 = workshop-contributing
+
+== Contributing
+
+Внести вклад в развитие данного проекта можно с помощью:
+
+* *Submitting Issue* - это
+** Сообщить о проблеме/ошибке
+** Предложить улучшение
+* *Code Contributing* - это создание *Pull Request* с вашим
+** Исправлением проблемы/ошибки
+** Реализацией улучшения
+** Обновлением документации
+** и т.д.
+
+=== Submitting Issue
+
+* link:https://github.com/rakovets/workshop-contributing/issues/new/choose[Создать *Issue*]
+
+=== Code Contributing
+
+* Для того, что бы сделать *Pull Request*, ознакомьтесь с link:.github/CONTRIBUTING.md[Правилами]
+* Для создания *Pull Request*, перейдите на link:https://github.com/rakovets/workshop-contributing/pulls[страницу с Pull Requests]
